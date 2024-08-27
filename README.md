@@ -17,10 +17,10 @@ This repository contains the data, code for analyses, and other supplemental mat
  
 * [Annotations_Prolific](Annotations_Prolific) - This folder contains all the collected annotations for each study.
   
-  * [Background_Detail_Binary_Story1](Annotations_Prolific/Animacy_Story1) - Holds all the annotations collected when testing agreement for Story 1 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story1/Processed_Data) subfolder contains each individual participant's annotations in JSON files. 
-  * [Background_Detail_Binary_Story2](Annotations_Prolific/Animacy_Story2) - Holds all the annotations collected when testing agreement for Story 2 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story2/Processed_Data) subfolder contains each individual participant's annotations in JSON files.
-  * [Background_Detail_LikertScale_Story1](Annotations_Prolific/Animacy_Story3) - Holds all the annotations collected when testing agreement for Story 3 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story3/Processed_Data) subfolder contains each individual participant's annotations in JSON files.
-  * [Background_Detail_LikertScale_Story2](Annotations_Prolific/Animacy_Story4) - Holds all the annotations collected when testing agreement for Story 4 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story4/Processed_Data) subfolder contains each individual participant's annotations in JSON files.
+  * [Animacy_Story1](Annotations_Prolific/Animacy_Story1) - Holds all the annotations collected when testing agreement for Story 1 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story1/Processed_Data) subfolder contains each individual participant's annotations in JSON files. 
+  * [Animacy_Story2](Annotations_Prolific/Animacy_Story2) - Holds all the annotations collected when testing agreement for Story 2 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story2/Processed_Data) subfolder contains each individual participant's annotations in JSON files.
+  * [Animacy_Story3](Annotations_Prolific/Animacy_Story3) - Holds all the annotations collected when testing agreement for Story 3 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story3/Processed_Data) subfolder contains each individual participant's annotations in JSON files.
+  * [Animacy_Story4](Annotations_Prolific/Animacy_Story4) - Holds all the annotations collected when testing agreement for Story 4 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story4/Processed_Data) subfolder contains each individual participant's annotations in JSON files.
 
  
 *
