@@ -14,6 +14,8 @@ This repository contains the data, code for analyses, and other supplemental mat
   * [Story2](ComicPages/Story2) - This folder contains all five pages of "The Fourth Dimension is a Many Splattered Thing!" as pdfs. [Story2_Info.md](ComicPages/Story2/Story2_Info.md) provides the authorship and publication information.
   * [Story3](ComicPages/Story3) - This folder contains all five pages of "My Robot Plants" as pdfs. [Story3_Info.md](ComicPages/Story3/Story3_Info.md) provides the authorship and publication information.
   * [Story4](ComicPages/Story4) - This folder contains all five pages of "The Man Who Never Lived" as pdfs. [Story4_Info.md](ComicPages/Story4/Story4_Info.md) provides the authorship and publication information.
+ 
+* 
 
   
 * [Consent_Form.pdf](Consent_Form.pdf) - This pdf is the consent form given to each annotator to confirm that they choose to participant in the study and can withdraw consent at any time. These statements were given to each annotator to initial and sign out within the Comics Annotation Tool (CAT).
