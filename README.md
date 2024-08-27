@@ -23,7 +23,13 @@ This repository contains the data, code for analyses, and other supplemental mat
   * [Animacy_Story4](Annotations_Prolific/Animacy_Story4) - Holds all the annotations collected when testing agreement for Story 4 using IOU overlap scores. The [Processed_Data](Annotations_Prolific/Animacy_Story4/Processed_Data) subfolder contains each individual participant's annotations in JSON files.
 
  
-*
+* [Inter-Annotator_agreement_analysis_code](Inter-Annotator_agreement_analysis_code) - This folder contains the code to calculate annotator agreement for each study. The analyses are done using python within jupyter notebook files. Annotation data can be read in from the JSON files in the [Annotations_Prolific](Annotations_Prolific) folder. 
+
+  * [Animacy_Polygon_IAA_Story1.ipynb](Inter-Annotator_agreement_analysis_code/Animacy_Polygon_IAA_Story1.ipynb) - Contains agreement results for Story 1.
+  * [Animacy_Polygon_IAA_Story2.ipynb](Inter-Annotator_agreement_analysis_code/Animacy_Polygon_IAA_Story2.ipynb) - Contains agreement results for Story 2.
+  * [Animacy_Polygon_IAA_Story3.ipynb](Inter-Annotator_agreement_analysis_code/Animacy_Polygon_IAA_Story3.ipynb) - Contains agreement results for Story 3.
+  * [Animacy_Polygon_IAA_Story4.ipynb](Inter-Annotator_agreement_analysis_code/Animacy_Polygon_IAA_Story4.ipynb) - Contains agreement results for Story 4.
+  * [Animacy_Polygon_IAA_Boxplot.ipynb](Inter-Annotator_agreement_analysis_code/Animacy_Polygon_IAA_Boxplot.ipynb) - Contains code to visualize the distributions of agreement scores between annotator pairs as a boxplot. 
 
   
 * [Consent_Form.pdf](Consent_Form.pdf) - This pdf is the consent form given to each annotator to confirm that they choose to participant in the study and can withdraw consent at any time. These statements were given to each annotator to initial and sign out within the Comics Annotation Tool (CAT).
