@@ -39,4 +39,7 @@ This repository contains the data, code for analyses, and other supplemental mat
   
 * [Consent_Form.pdf](Consent_Form.pdf) - This pdf is the consent form given to each annotator to confirm that they choose to participant in the study and can withdraw consent at any time. These statements were given to each annotator to initial and sign out within the Comics Annotation Tool (CAT).
 
-* [VLFI_Questionnaire.pdf](VLFI_Questionnaire.pdf) - This pdf provides the questions of the Visual Language Fluency Index (VLFI). These questions were given to each annotator to fill out within the Comics Annotation Tool (CAT).  
+* [VLFI_Questionnaire.pdf](VLFI_Questionnaire.pdf) - This pdf provides the questions of the Visual Language Fluency Index (VLFI). These questions were given to each annotator to fill out within the Comics Annotation Tool (CAT).
+
+* [Annotator_VLFI_scores.pdf](Annotator_VLFI_scores.pdf) - This pdf provides the demographics and VLFI scores for all participants in both Experiments 1 and 2. 
+  
